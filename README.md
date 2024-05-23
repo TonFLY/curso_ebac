@@ -22,7 +22,8 @@ O curso de Análise de Dados da EBAC Online aborda os seguintes tópicos:
 
 ## 🤝 Conecte-se Comigo
 
-Fique à vontade para explorar o repositório, clonar os projetos e entrar em contato comigo através do meu LinkedIn: https://www.linkedin.com/in/tonfly/. Adoraria trocar ideias e aprender com outros entusiastas da análise de dados! 😄
+Fique à vontade para explorar o repositório, clonar os projetos e entrar em contato comigo através do meu  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonfly/)
+. Adoraria trocar ideias e aprender com outros entusiastas da análise de dados! 😄
 
 ---
 
