@@ -1,21 +1,29 @@
-📚 Repositório do Curso de Análise de Dados da EBAC Online
-Olá! 👋 Sou o [Seu nome], aspirante a analista de dados e este é o repositório onde compartilho minha jornada no curso de Análise de Dados da EBAC Online. 📈
+# 📚 Repositório do Curso de Análise de Dados da EBAC Online
 
-🎯 Objetivo
+Olá! 👋 Sou o **Wellington**, aspirante a analista de dados, e este é o repositório onde compartilho minha jornada no curso de Análise de Dados da EBAC Online. 📈
+
+## 🎯 Objetivo
+
 Este repositório é um registro do meu progresso no curso, onde você encontrará:
 
-📝 Exercícios: Notebooks Jupyter com a resolução dos exercícios propostos em cada módulo.
-📊 Projetos: Notebooks Jupyter com projetos práticos que desenvolvi ao longo do curso, aplicando os conceitos aprendidos.
-📓 Anotações: Resumos e anotações importantes sobre o conteúdo do curso.
-📖 Conteúdo do Curso
+* 📝 **Exercícios:** Notebooks Jupyter com a resolução dos exercícios propostos em cada módulo.
+* 📊 **Projetos:** Notebooks Jupyter com projetos práticos que desenvolvi ao longo do curso, aplicando os conceitos aprendidos.
+* 📓 **Anotações:** Resumos e anotações importantes sobre o conteúdo do curso.
+
+## 📖 Conteúdo do Curso
+
 O curso de Análise de Dados da EBAC Online aborda os seguintes tópicos:
 
-Estatística Descritiva e Inferencial
-Python para Análise de Dados (pandas, NumPy, Matplotlib, Seaborn)
-Manipulação e Limpeza de Dados
-Visualização de Dados
-Machine Learning
-🤝 Conecte-se Comigo
-Fique à vontade para explorar o repositório, clonar os projetos, e entrar em contato comigo através do meu LinkedIn: [Seu perfil no LinkedIn]. Adoraria trocar ideias e aprender com outros entusiastas da análise de dados! 😄
+*   Estatística Descritiva e Inferencial
+*   Python para Análise de Dados (`pandas`, `NumPy`, `Matplotlib`, `Seaborn`)
+*   Manipulação e Limpeza de Dados
+*   Visualização de Dados
+*   Machine Learning
 
-Disclaimer: Este repositório é apenas para fins educacionais e não representa o trabalho oficial da EBAC Online.
+## 🤝 Conecte-se Comigo
+
+Fique à vontade para explorar o repositório, clonar os projetos e entrar em contato comigo através do meu LinkedIn: https://www.linkedin.com/in/tonfly/. Adoraria trocar ideias e aprender com outros entusiastas da análise de dados! 😄
+
+---
+
+**Disclaimer:** Este repositório é apenas para fins educacionais e não representa o trabalho oficial da EBAC Online.
